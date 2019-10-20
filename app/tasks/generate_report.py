@@ -9,7 +9,7 @@ def generate_report(response_url):
 
     data = {
         'response_type': 'in_channel',
-        'text': 'Hello I have been waiting for 10s, here is your report'
+        'text': 'Hello, here is your report'
     }
 
     requests.post(response_url, json=data)
