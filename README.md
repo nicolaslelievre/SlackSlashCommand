@@ -16,15 +16,15 @@ testing purposes. See deployment for notes on how to deploy the project on a liv
 ### Installing
 To be completed
 
-### Deployment
+## Deployment
 To be completed
 
-### Built with
+## Built with
 - [Flask](https://palletsprojects.com/p/flask/) - Web application framework
 - [Zappa](https://www.zappa.io/) - Serverless microframework for AWS
 - [AWS Lambda](https://aws.amazon.com/lambda/features/) - Serverless compute service
 
-# Acknowledgments
+## Acknowledgments
 - [The Flask Mega Tutorial by Miguel Grinberg](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - [Serverless Slash Commands With Python by Renzo Lucioni](https://renzo.lucioni.xyz/serverless-slash-commands-with-python/)
 - [AWS IAM User Role Policies Zappa Serverless Python](https://www.codingforentrepreneurs.com/blog/aws-iam-user-role-policies-zappa-serverless-python)
